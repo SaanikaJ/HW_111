@@ -1,0 +1,37 @@
+#image{
+    height:400px; 
+    width:400px;
+}
+
+#heading{
+    font-size:25px; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    color:white; 
+}
+
+#hr_line{
+    color:black;
+}
+
+body{ 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    background-color:cornflowerblue;
+    color:white; 
+}
+
+#heading_1{ 
+    font-size:25px; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    color:white; 
+    margin-right:600px;
+}
+
+#result_1{
+    height:500px;
+    width:100%;
+}
+
+#result_2{
+    height:500px;
+    width:100%;
+}
